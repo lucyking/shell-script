@@ -1,4 +1,4 @@
-cat sa.csv | sed 's/^[0-9]*,//g' > ra.csv
+```cat sa.csv | sed 's/^[0-9]*,//g' > ra.csv```
 ```
 ... ...
 0,228,299,10
