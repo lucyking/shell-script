@@ -1,4 +1,5 @@
-cat a.csv | sort -g  -t , -k 2   > sa.csv
+```cat a.csv | sort -g  -t , -k 2   > sa.csv```
+```
 ... ...
 0,228,299,10
 1,228,298,10
