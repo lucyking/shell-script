@@ -1,4 +1,4 @@
-- del the index 
+##### del the index 
 
 ``` cat sa.csv | sed 's/^[0-9]*,//g' | head```
 ```
