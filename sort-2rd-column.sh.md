@@ -1,6 +1,6 @@
 ##### sort by src node
 
-```cat a.csv | sort -g  -t , -k 2   > sa.csv```
+```cat a.csv | sort -g  -t , -k 2 -k 3   > sa.csv```
 ```
 ... ...
 0,228,299,10
