@@ -1,0 +1,7 @@
+git config --global alias.cg "config --global"
+git cg user.name lucyking
+git cg user.email joehisaishi1943@gmail.com
+git cg alias.st status
+git cg alias.br "branch -av"
+git cg alias.re "remote -v"
+git cg alias.ci commit
