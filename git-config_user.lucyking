@@ -1,7 +1,16 @@
-git config --global alias.cg "config --global"
-git cg user.name lucyking
-git cg user.email joehisaishi1943@gmail.com
-git cg alias.st status
-git cg alias.br "branch -av"
-git cg alias.re "remote -v"
-git cg alias.ci commit
+## GitHub
+git config --global user.name lucyking
+git config --global user.email joehisaishi1943@gmail.com
+git config --global alias.st status
+git config --global alias.br "branch -av"
+git config --global alias.re "remote -v"
+git config --global alias.ci commit
+
+
+## Coding
+git config --global user.name Segma
+git config --global user.email 1097976709@qq.com
+git config --global alias.st status
+git config --global alias.br "branch -av"
+git config --global alias.re "remote -v"
+git config --global alias.ci commit
