@@ -5,7 +5,7 @@ git config --global alias.st status
 git config --global alias.br "branch -av"
 git config --global alias.re "remote -v"
 git config --global alias.ci commit
-
+git config --global alias.co checkout
 
 ## Coding
 git config --global user.name Segma
@@ -14,3 +14,4 @@ git config --global alias.st status
 git config --global alias.br "branch -av"
 git config --global alias.re "remote -v"
 git config --global alias.ci commit
+git config --global alias.co checkout
